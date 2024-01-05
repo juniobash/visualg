@@ -5,7 +5,7 @@ procedimento NasceNinfa(nome: caractere)
   var falar: caractere
   inicio
   falar <- ": Ola!, mundo Cruel"
-  Escreval(nome + falar)
+  escreval(nome + falar)
   fimprocedimento
 
 funcao PoderNinfa(nome: caractere): caractere
@@ -18,6 +18,6 @@ funcao PoderNinfa(nome: caractere): caractere
 inicio
   nome <- "Sunna"
   NasceNinfa(nome)
-  Escreval(PoderNinfa(nome))
+  escreval(PoderNinfa(nome))
 
 fimalgoritmo
