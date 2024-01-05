@@ -3,8 +3,7 @@
 
 ~~~visualg
 Algoritmo "Programa Base"
-    Inicio
-        Escreval("Ola, Mundo!")
-        
+Inicio
+Escreval("Ola, Mundo!")   
 FimAlgoritmo
 ~~~
