@@ -4,10 +4,8 @@
 
 ~~~ alg
 Algoritmo "Programa Base"
-    
-    Inicio
-        Escreval("Ola, Mundo!")
-
+Inicio
+  Escreval("Ola, Mundo!")
 FimAlgoritmo
 ~~~
 o seguinte projeto irar utilizar o estilo de codigo baseado em python e c proposto por guido, como tambem a codificacao propsta pela daniela fore - elementary OS
